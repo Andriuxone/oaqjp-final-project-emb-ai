@@ -35,7 +35,7 @@ python3 -m pip install requests flask pylint
 ## Pregunta 1 – Tarea 1 (URL)
 Envía esta URL:
 `https://github.com/Andriuxone/oaqjp-final-project-emb-ai/blob/main/README.md`
-(El README ya dice `# Final Project`.)
+(El README ya dice `# Final project`.)
 
 ## Pregunta 2 – Tarea 2, Actividad 1 (código)
 Copia y pega el contenido de `evidencias/2a_emotion_detection`.
